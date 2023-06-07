@@ -9,16 +9,16 @@
 ## Introdução
 Repo destinado à entrega de COMPUTATIONAL THINKING USING PYTHON para a Global Solution do primeiro semestre de 2023. O tema proposto nessa GS foi a fome e a insegurança alimentar.
 ## A Ideia
-A ideia escolhida pela squad foi atacar o desperdício de alimentos produzidos por estabelecimentos como restaurantes, self-services e afins. Isso será feito através de um site que intermediará os estabelecimentos citados e ONGs que distribuam alimentos. Assim evitando o desperdício de alimentos por parte do estabelecimento, facilitando a obtenção de alimentos por parte da ONG e impulsionando ações que levam comida à pessoas em stuação de insegurança alimentar.
+A ideia escolhida pela squad foi atacar o desperdício de alimentos produzidos por estabelecimentos como restaurantes, self-services e afins. Isso será feito através de um site que intermediará os estabelecimentos citados e ONGs que distribuam alimentos. Assim evitando o desperdício de alimentos por parte do estabelecimento, facilitando a obtenção de alimentos por parte da ONG e impulsionando ações que levam comida a pessoas em stuação de insegurança alimentar.
 
 ## O Projeto
 Nesse projeto em python foi desenvolvido o que seria o sistema de controle de Excedentes e Agendamento de Coleta, assim como o controle de usuários (Estabelecimento ou ONG).
 
 ### Dependêcias
-python 3.10.0 installado.
+python 3.10.0
 
 ### Como iniciar o projeto
-Para iniciar o projeto basta clonar o repositório e rodar pyhton gs.py na linha de comando.
+Para iniciar o projeto basta clonar o repositório e rodar python gs.py na linha de comando.
 
 ### Login (Estabelecimento/ONG)
 Para logar basta selecionar a opção de login. Há 3 usuários pré-criados: (user: pfTio@gmail.com senha: 123 tipo: Estabelecimento), (user: sorveteTia@gmail.com senha: 123 tipo: Estabelecimento) e (user: pratoCheio@gmail.com senha: 123 tipo: ONG)
